@@ -32,7 +32,9 @@ Certificates :
      :blue_book:reading books.
 
 ![Mukhriddin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mukhriddin19980901)]
+
 Contacts : 
+
 :calling: +821059265875
 
 :email: mukhriddinmalik@gmail.com
