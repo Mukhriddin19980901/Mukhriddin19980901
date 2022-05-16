@@ -30,8 +30,7 @@ Certificates :
      :video_game:virtual games,
      :soccer:football,
      :blue_book:reading books.
-[![Mukhriddin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mukhriddin19980901)](https://github.com/Mukhriddin19980901/github-readme-stats)
-
+https://github-readme-stats.vercel.app/api?username=Mukhriddin19980901
 Contacts : 
 :calling: +821059265875
 
