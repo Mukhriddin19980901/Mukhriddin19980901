@@ -6,9 +6,11 @@
 
 :mortar_board: Additional courses that I have finished . kaggle.com/computer_vision and sololearn/data_science:
 Certificates : 
-<img src="https://github.com/Mukhriddin19980901/Mukhriddin19980901/blob/main/Muhriddin%20Khaydarov%20-%20Computer%20Vision.png " width="600" height="400" />
+<img src="https://github.com/Mukhriddin19980901/Mukhriddin19980901/blob/main/Muhriddin%20Khaydarov%20-%20Computer%20Vision.png " width="300" height="300" /><img src="https://github.com/Mukhriddin19980901/Mukhriddin19980901/blob/main/cert-24637256-1161%20(3).png " width="300" height="300" />
+ 
+ :rocket: Currently learning more about self-driving cars and robots.
 
-<img src="https://github.com/Mukhriddin19980901/Mukhriddin19980901/blob/main/cert-24637256-1161%20(3).png " width="600" height="400" />
+ :white_check_mark: Projects that I have done are here : :link: https://github.com/Mukhriddin19980901/My_portfolio
 
-  
+
 [![Mukhriddin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mukhriddin19980901)](https://github.com/Mukhriddin19980901/github-readme-stats)
