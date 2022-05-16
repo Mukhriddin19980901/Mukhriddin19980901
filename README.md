@@ -30,7 +30,9 @@ Certificates :
      :video_game:virtual games,
      :soccer:football,
      :blue_book:reading books.
+
 https://github-readme-stats.vercel.app/api?username=Mukhriddin19980901
+
 Contacts : 
 :calling: +821059265875
 
