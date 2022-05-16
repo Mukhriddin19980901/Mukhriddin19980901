@@ -20,3 +20,14 @@ Certificates :
      :soccer:football,
      :blue_book:reading books.
 [![Mukhriddin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mukhriddin19980901)](https://github.com/Mukhriddin19980901/github-readme-stats)
+
+Contacts : 
+:calling: +821059265875
+
+:email: mukhriddinmalik@gmail.com
+
+:link: Linkedin  : http://linkedin.com/in/mukhriddin-khaydarov-8a9729209
+
+Facebook : https://www.facebook.com/mukhriddin.khaydarov.9
+
+Instagram : https://instagram.com/muhriddin______?igshid=YmMyMTA2M2Y=
