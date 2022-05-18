@@ -8,8 +8,7 @@ My work is based on COMPUTER VISION using Machine learning and Deep Learning mod
 
 :computer: Skills that I have are using Python, Tensorflow ,PyTorch ,Numpy ,Seaborn ,Matplotlib, Scikit-learn ,Pandas ,and Keras
 
-<img src="https://github.com/Mukhriddin19980901/Mukhriddin19980901/blob/main/Python.gif" width="50" height="50" />
-
+<img src="https://github.com/Mukhriddin19980901/Mukhriddin19980901/blob/main/Python.gif" width="50" height="50" /> <img src="https://github.com/Mukhriddin19980901/Mukhriddin19980901/blob/main/tensorflow_logo_icon_168671.png " width="50" height="50" />
 - 🔭 I’m currently working on my own projects 
 - 🌱 I’m currently learning some calculus and statistics 
 - 👯 I’m looking to collaborate on real time projects 
