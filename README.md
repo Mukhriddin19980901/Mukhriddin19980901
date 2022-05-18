@@ -36,6 +36,6 @@ Certificates :
 
 Contacts : 
 
-:calling: +821059265875
+:calling: +821025007154
 
 :email: mukhriddinmalik@gmail.com
