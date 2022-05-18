@@ -6,7 +6,9 @@
 
 My work is based on COMPUTER VISION using Machine learning and Deep Learning models.I have preferred AI as a future demanding job.
 
-:computer: Skills that I have are using Python Tensorflow PyTorch Numpy Seaborn Matplotlib Scikit-learn Pandas and Keras
+:computer: Skills that I have are using Python, Tensorflow ,PyTorch ,Numpy ,Seaborn ,Matplotlib, Scikit-learn ,Pandas ,and Keras
+
+<img src="https://github.com/Mukhriddin19980901/Mukhriddin19980901/blob/main/Python.gif" width="50" height="50" />
 
 - 🔭 I’m currently working on my own projects 
 - 🌱 I’m currently learning some calculus and statistics 
