@@ -40,7 +40,3 @@ Certificates :
 
 ![Mukhriddin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mukhriddin19980901)
  
-
-:calling: +821025007154
-
-:email: mukhriddinmalik@gmail.com
