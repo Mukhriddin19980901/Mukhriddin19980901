@@ -28,7 +28,7 @@ Certificates :
  
  :rocket: Currently learning more about self-driving cars and robots.
 
- :white_check_mark: ### Projects that I have done are here : :link: https://github.com/Mukhriddin19980901/My_portfolio
+ :white_check_mark: P r o j e c t s that I have done are here : :link: https://github.com/Mukhriddin19980901/My_portfolio
  
  :heavy_plus_sign: I can use  stack-overflow ,kaggle and google.colab efficiently.
  
