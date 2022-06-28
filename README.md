@@ -22,7 +22,7 @@ My work is based on COMPUTER VISION using Machine learning and Deep Learning mod
 
 :email: mukhriddinmalik@gmail.com
 
-:mortar_board: Additional courses that I have finished . kaggle.com/computer_vision and sololearn/data_science:
+:mortar_board: Additional courses that I have finished . Coursera, kaggle.com/computer_vision and sololearn/data_science :
 Certificates : 
 <img src="https://github.com/Mukhriddin19980901/Mukhriddin19980901/blob/main/coursera_ai.png " width="300" height="300" />
 <img src="https://github.com/Mukhriddin19980901/Mukhriddin19980901/blob/main/Muhriddin%20Khaydarov%20-%20Computer%20Vision.png " width="300" height="300" /><img src="https://github.com/Mukhriddin19980901/Mukhriddin19980901/blob/main/cert-24637256-1161%20(3).png " width="300" height="300" />
