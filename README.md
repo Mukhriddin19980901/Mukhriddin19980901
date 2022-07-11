@@ -4,7 +4,7 @@
 
 ### Hi  👋, I am Mukhriddin
 
-My work is based on COMPUTER VISION using Machine learning and Deep Learning models.I have preferred AI as a future demanding job.
+I am an AI developer and Data Scientist,mostly working on Computer Vision.I have preferred AI as a future demanding job.
 
 :computer:I know  Python as a programming language, and other dataframe and libraries : Tensorflow ,PyTorch ,Numpy ,Seaborn ,Matplotlib, Scikit-learn ,Pandas ,and Keras , learning Mediapipe and CVZONE.
 
