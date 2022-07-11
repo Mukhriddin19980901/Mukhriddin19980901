@@ -23,6 +23,7 @@ I am an AI developer and Data Scientist,mostly working on Computer Vision.I have
 
 :email: mukhriddinmalik@gmail.com
 
+:mortar_board: Graduated from DLIC and studied Bachelor's 1 year at Keimyung University in South Korea.
 :mortar_board: Additional courses that I have finished . Coursera, kaggle.com/computer_vision and sololearn/data_science :
 Certificates : 
 <img src="https://github.com/Mukhriddin19980901/Mukhriddin19980901/blob/main/coursera_ai.png " width="300" height="300" /><img src="https://github.com/Mukhriddin19980901/Mukhriddin19980901/blob/main/Muhriddin%20Khaydarov%20-%20Computer%20Vision.png " width="300" height="300" /><img src="https://github.com/Mukhriddin19980901/Mukhriddin19980901/blob/main/cert-24637256-1161%20(3).png " width="300" height="300" />
