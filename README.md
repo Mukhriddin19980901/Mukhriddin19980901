@@ -1,6 +1,6 @@
 
 
-![AI and Data Science](https://media-exp1.licdn.com/dms/image/C5616AQGGW_zqiiS5AQ/profile-displaybackgroundimage-shrink_200_800/0/1652702306308?e=1658361600&v=beta&t=U5OzJwmEityI7xqAio_c_NOTgJls9HAn8l-e8JrBqUw)
+<img src="https://media-exp1.licdn.com/dms/image/C5616AQGGW_zqiiS5AQ/profile-displaybackgroundimage-shrink_200_800/0/1652702306308?e=1658361600&v=beta&t=U5OzJwmEityI7xqAio_c_NOTgJls9HAn8l-e8JrBqUw" width="150" height="50" /> 
 
 ### Hi  👋, I am Mukhriddin from Uzbekistan
 
