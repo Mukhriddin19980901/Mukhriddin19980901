@@ -19,14 +19,10 @@ I am an AI&Computer Vision developer.I have preferred AI as a future demanding j
 
 :email: mukhriddinmalik@gmail.com
 
-:mortar_board: Graduated from DLIC and studied Bachelor's 1 year at Keimyung University in South Korea.
-
-:mortar_board: Additional courses that I have finished . Coursera, kaggle.com/computer_vision and sololearn/data_science :
-
 Certificates : 
+
 <img src="https://github.com/Mukhriddin19980901/Mukhriddin19980901/blob/main/coursera_ai.png " width="300" height="300" /><img src="https://github.com/Mukhriddin19980901/Mukhriddin19980901/blob/main/Mukhriddin%20Khaydarov%20-%20Computer%20Vision.png" width="300" height="300" /><img src="https://github.com/Mukhriddin19980901/Mukhriddin19980901/blob/main/cert-24637256-1161%20(3).png " width="300" height="300" />
  
- :rocket: Currently learning more about self-driving cars and robots.
 
  :white_check_mark: P r o j e c t s that I have done are here : :link: https://github.com/Mukhriddin19980901/My_portfolio
  
