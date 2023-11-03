@@ -3,7 +3,7 @@
 
 I am a Computer Vision Engineer.
 
-:computer: Python, Tensorflow ,PyTorch ,Numpy ,Seaborn ,Matplotlib, Scikit-learn ,Pandas ,and Keras t
+:computer: Python, Tensorflow ,PyTorch ,Numpy ,Seaborn ,Matplotlib, Scikit-learn ,Pandas ,and Keras 
 
 <img src="https://github.com/Mukhriddin19980901/Mukhriddin19980901/blob/main/Python.gif" width="50" height="50" /> <img src="https://github.com/Mukhriddin19980901/Mukhriddin19980901/blob/main/tensorflow_logo_icon_168671.png " width="50" height="50" /><img src="https://github.com/Mukhriddin19980901/Mukhriddin19980901/blob/main/pytorch.png" width="50" height="50" /><img src="https://github.com/Mukhriddin19980901/Mukhriddin19980901/blob/main/numpy.png" width="50" height="50" /><img src="https://github.com/Mukhriddin19980901/Mukhriddin19980901/blob/main/seaborn0.png" width="50" height="50" /><img src="https://github.com/Mukhriddin19980901/Mukhriddin19980901/blob/main/matplotlib.png" width="50" height="50" /><img src="https://github.com/Mukhriddin19980901/Mukhriddin19980901/blob/main/sklearn.png" width="50" height="50" /><img src="https://github.com/Mukhriddin19980901/Mukhriddin19980901/blob/main/pandas.png" width="50" height="50" /><img src="https://github.com/Mukhriddin19980901/Mukhriddin19980901/blob/main/keras.png" width="50" height="50" /> 
 
