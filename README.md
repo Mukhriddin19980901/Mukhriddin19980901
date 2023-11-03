@@ -1,7 +1,7 @@
 
 ### Hi  👋, I am Mukhriddin
 
-I am a Computer Vision.
+I am a Computer Vision Engineer.
 
 :computer: Python, Tensorflow ,PyTorch ,Numpy ,Seaborn ,Matplotlib, Scikit-learn ,Pandas ,and Keras t
 
