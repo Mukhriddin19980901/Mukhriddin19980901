@@ -1,9 +1,9 @@
 
 ### Hi  👋, I am Mukhriddin
 
-I am an AI&Computer Vision developer.I have preferred AI as a future demanding job.
+I am a Computer Vision.
 
-:computer:I know  Python as a programming language, and other dataframe and libraries : Tensorflow ,PyTorch ,Numpy ,Seaborn ,Matplotlib, Scikit-learn ,Pandas ,and Keras 
+:computer: Python, Tensorflow ,PyTorch ,Numpy ,Seaborn ,Matplotlib, Scikit-learn ,Pandas ,and Keras t
 
 <img src="https://github.com/Mukhriddin19980901/Mukhriddin19980901/blob/main/Python.gif" width="50" height="50" /> <img src="https://github.com/Mukhriddin19980901/Mukhriddin19980901/blob/main/tensorflow_logo_icon_168671.png " width="50" height="50" /><img src="https://github.com/Mukhriddin19980901/Mukhriddin19980901/blob/main/pytorch.png" width="50" height="50" /><img src="https://github.com/Mukhriddin19980901/Mukhriddin19980901/blob/main/numpy.png" width="50" height="50" /><img src="https://github.com/Mukhriddin19980901/Mukhriddin19980901/blob/main/seaborn0.png" width="50" height="50" /><img src="https://github.com/Mukhriddin19980901/Mukhriddin19980901/blob/main/matplotlib.png" width="50" height="50" /><img src="https://github.com/Mukhriddin19980901/Mukhriddin19980901/blob/main/sklearn.png" width="50" height="50" /><img src="https://github.com/Mukhriddin19980901/Mukhriddin19980901/blob/main/pandas.png" width="50" height="50" /><img src="https://github.com/Mukhriddin19980901/Mukhriddin19980901/blob/main/keras.png" width="50" height="50" /> 
 
@@ -22,15 +22,9 @@ Certificates :
 <img src="https://github.com/Mukhriddin19980901/Mukhriddin19980901/blob/main/coursera_ai.png " width="300" height="300" /><img src="https://github.com/Mukhriddin19980901/Mukhriddin19980901/blob/main/Mukhriddin%20Khaydarov%20-%20Computer%20Vision.png" width="300" height="300" /><img src="https://github.com/Mukhriddin19980901/Mukhriddin19980901/blob/main/cert-24637256-1161%20(3).png " width="300" height="300" />
  
 
- :white_check_mark: P r o j e c t s that I have done are here : :link: https://github.com/Mukhriddin19980901/My_portfolio
- 
- :heavy_plus_sign: I can use  stack-overflow ,kaggle and google.colab efficiently.
- 
- :free: I spend my free time with my family or friends. 
- Hobbies : 
-     :video_game:virtual games,
-     :soccer:football,
-     :blue_book:reading books.
+ :heavy_plus_sign: [Kaggle](https://www.kaggle.com/muhriddinmalik)
 
+ 
+ 
 ![Mukhriddin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mukhriddin19980901)
  
