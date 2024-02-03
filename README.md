@@ -14,6 +14,7 @@ I am a Computer Vision Engineer.
 
 
 Certificates : 
+
 <img src="https://github.com/Mukhriddin19980901/Mukhriddin19980901/blob/main/coursera_ai.png " width="200" height="200" /><img src="https://github.com/Mukhriddin19980901/Mukhriddin19980901/blob/main/Mukhriddin%20Khaydarov%20-%20Computer%20Vision.png" width="200" height="200" />
 
 <img src="https://github.com/Mukhriddin19980901/Mukhriddin19980901/blob/main/cert-24637256-1161%20(3).png " width="200" height="200" /><img src="https://github.com/Mukhriddin19980901/Mukhriddin19980901/blob/main/Mukhriddin%20Khaydarov%20-%20Pandas%20(1).png?raw=true" width="200" height="200" />
